@@ -6,7 +6,7 @@ This dataset aims to investigate stress response to multiple stressors based on 
 
 
 ## Experimental Procedure
-![alt text](github.com/ggian/stress_dataset/blob/main/experimental_setup.png)
+![alt text](https://github.com/ggian/stress_dataset/blob/main/experimental_setup.png)
 
 
 ## Experimental Tasks
@@ -23,6 +23,21 @@ The dataset population was 58 adults (24 men, 34 women) aged 26.9 ± 4.8 years. 
 *	1 relaxed 
 
 A neutral condition was presented at the beginning of each phase of the experiment. This condition was used as a baseline for the subsequent stressful tasks. 
+
+##	Data recording
+The data recorded for each patient include
+*	Demographics (gender, age, family history, etc.)
+*	Questionnaire data (STAI, PSS10, HADS, DERS)
+*	Facial video
+*	Body posture video
+*	Biosignals
+*	electrocardiogram (ECG)
+*	electrodermal activity (EDA)
+*	electromyogram (EMG)
+*	breathing pattern (RSP)
+*	speech
+
+![alt text](https://github.com/ggian/stress_dataset/blob/main/stress_biosignals.png)
 
 ##  Release of FORTH Stress dataset
 The FORTH Stress dataset can be obtained and used by researchers who wish to perform non-comercial research. The study was approved by the Research Ethics Committee of FORTH (approval no. 155/12-09-2022). All participants provided informed consent.
