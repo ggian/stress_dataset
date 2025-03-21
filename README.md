@@ -6,9 +6,11 @@ This dataset aims to investigate stress response to multiple stressors based on 
 
 
 ## Experimental Procedure
+Study participants were seated in front of a computer monitor while a camera was placed with its field of view (FOV) able to cover properly the participant’s face.
 <div align="center">
-<img align="center" src="https://github.com/ggian/stress_dataset/blob/main/images/experimental_setup.png" width="50%" height="50%">
+<img src="https://github.com/ggian/stress_dataset/blob/main/images/experimental_setup.png" width="50%" height="50%" alt="alt text">
 </div>
+<div align="center">Figure 1: Experimental setup for video acquisition</div>
 
 ## Experimental Tasks
 An experimental protocol was designed and conducted to investigate facial/physiological responses in stress conditions. The experiment included neutral tasks (used as reference) and stressful tasks in which stress conditions were simulated and induced employing different types of stressors. These stressors were categorized into 4 different phases: 
@@ -32,16 +34,16 @@ The data recorded for each patient include
 *	Facial video
 *	Body posture video
 *	Biosignals
-*	electrocardiogram (ECG)
-*	electrodermal activity (EDA)
-*	electromyogram (EMG)
-*	breathing pattern (RSP)
+    *	electrocardiogram (ECG)
+    *	electrodermal activity (EDA)
+    *	electromyogram (EMG)
+    *	breathing pattern (RSP)
 *	speech
 
 <div align="center">
-<img src="https://github.com/ggian/stress_dataset/blob/main/images/stress_biosignals.png" width="50%" height="50%">
+<img src="https://github.com/ggian/stress_dataset/blob/main/images/stress_biosignals.png" width="60%" height="60%" alt="alt text">
 </div>
-![alt text](https://github.com/ggian/stress_dataset/blob/main/images/stress_biosignals.png)
+
 
 ##  Release of FORTH Stress dataset
 The FORTH Stress dataset can be obtained and used by researchers who wish to perform non-comercial research. The study was approved by the Research Ethics Committee of FORTH (approval no. 155/12-09-2022). All participants provided informed consent.
