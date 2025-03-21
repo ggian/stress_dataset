@@ -6,8 +6,10 @@ This dataset aims to investigate stress response to multiple stressors based on 
 
 
 ## Experimental Procedure
+<div style="width: 60%; height: 60%">
 ![alt text](https://github.com/ggian/stress_dataset/blob/main/images/experimental_setup.png)
-
+</div>
+<img src="https://github.com/ggian/stress_dataset/blob/main/images/experimental_setup.png" width="50%" height="50%">
 
 ## Experimental Tasks
 An experimental protocol was designed and conducted to investigate facial/physiological responses in stress conditions. The experiment included neutral tasks (used as reference) and stressful tasks in which stress conditions were simulated and induced employing different types of stressors. These stressors were categorized into 4 different phases: 
