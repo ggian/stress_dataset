@@ -6,7 +6,7 @@ This dataset aims to investigate stress response to multiple stressors based on 
 
 
 ## Experimental Procedure
-![alt text](https://github.com/ggian/stress_dataset/blob/main/experimental_setup.png)
+![alt text](https://github.com/ggian/stress_dataset/blob/main/images/experimental_setup.png)
 
 
 ## Experimental Tasks
@@ -37,7 +37,7 @@ The data recorded for each patient include
 *	breathing pattern (RSP)
 *	speech
 
-![alt text](https://github.com/ggian/stress_dataset/blob/main/stress_biosignals.png)
+![alt text](https://github.com/ggian/stress_dataset/blob/main/images/stress_biosignals.png)
 
 ##  Release of FORTH Stress dataset
 The FORTH Stress dataset can be obtained and used by researchers who wish to perform non-comercial research. The study was approved by the Research Ethics Committee of FORTH (approval no. 155/12-09-2022). All participants provided informed consent.
