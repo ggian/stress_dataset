@@ -45,9 +45,9 @@ The data recorded for each patient include
 </div>
 
 
-##  Release of FORTH Stress dataset
-The FORTH Stress dataset can be obtained and used by researchers who wish to perform non-comercial research. The study was approved by the Research Ethics Committee of FORTH (approval no. 155/12-09-2022). All participants provided informed consent.
+##  Release of the Stress dataset
+The Stress dataset can be obtained and used by researchers who wish to perform non-comercial research. The study was approved by the Research Ethics Committee of FORTH (approval no. 155/12-09-2022). All participants provided informed consent.
 
-The FORTH Stress dataset has been freely available for research and education purposes. To obtain access to the dataset, you need to complete and sign the user agreement form (TBA in this repository). 
+The Stress dataset has been freely available for research and education purposes. To obtain access to the dataset, you need to complete and sign the user agreement form (TBA in this repository). 
 The form should be signed, and emailed to Giorgos Giannakakis  (ggian@ics.forth.gr). We will verify your request and contact you on how to download the dataset.
 
